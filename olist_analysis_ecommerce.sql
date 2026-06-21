@@ -1,3 +1,0 @@
-CREATE DATABASE olist_analysis_ecommerce;
-
-USE olist_analysis_ecommerce;
